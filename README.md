@@ -106,4 +106,4 @@ This leads to faster launches and more confident execution.
 - Scalable beyond the hackathon
 
 ##  Demo Video
-[Watch Demo Video]((https://drive.google.com/file/d/15-UULOwX7aeXwz5u5tTxx6L10Xqejzw1/view?usp=sharing))
+[Watch Demo Video]((https://drive.google.com/file/d/15-UULOwX7aeXwz5u5tTxx6L10Xqejzw1/view?usp=sharing)) 
