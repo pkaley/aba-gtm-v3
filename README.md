@@ -30,7 +30,7 @@ ABA GTM V3 breaks the GTM process into four clear, actionable stages:
 2. **Positioning & Value Narrative**  
    Define clear differentiation and messaging that resonates with the target audience.
 
-3. **Channel Strategy**  
+3. **Channel Strategy**   
    Select the most effective distribution and acquisition channels.
 
 4. **Execution & Feedback Loop**  
@@ -105,5 +105,3 @@ This leads to faster launches and more confident execution.
 - Focuses on execution, not just ideas
 - Scalable beyond the hackathon
 
-##  Demo Video
-[Watch Demo Video]((https://drive.google.com/file/d/15-UULOwX7aeXwz5u5tTxx6L10Xqejzw1/view?usp=sharing)) 
