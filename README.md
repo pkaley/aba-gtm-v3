@@ -5,7 +5,23 @@
 ABA GTM V3 is a structured Go-To-Market (GTM) framework designed to help early-stage startups and products achieve market clarity quickly.  
 It focuses on identifying the right customers, crafting sharp positioning, and choosing effective acquisition channels—without wasting time or resources.
 
+This framework emphasizes go-to-market execution and decision-making rather than theoretical strategy.
+
 This project was built entirely during the GTM Hackathon as an original submission.
+
+---
+
+## Go-To-Market (GTM) Alignment
+
+ABA GTM V3 is aligned with go-to-market execution by structuring the key decisions teams need to make during product launch and early market entry.
+
+The framework helps teams clearly decide:
+- who the product should be sold to first (Ideal Customer Profile),
+- what value proposition and messaging should be used,
+- which acquisition channels should be prioritized,
+- and how quickly GTM assumptions can be tested and refined.
+
+By reducing ambiguity in customer targeting, positioning, and channel selection, this project helps teams focus their go-to-market efforts, avoid scattered execution, and learn faster from real market feedback during the early stages of a product’s lifecycle.
 
 ---
 
